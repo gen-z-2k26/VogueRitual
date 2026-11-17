@@ -9,7 +9,7 @@ const items: TrustItem[] = [
   {
     icon: "truck",
     title: "Shipping from $5",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Large appliances may include freight charges shown at checkout. Estimated parcel delivery is 3-6 business days.",
+    text: "Standard shipping is free throughout the United States. Handling is 1-3 business days and transit is 3-5 business days.",
   },
   {
     icon: "refresh",

@@ -1,0 +1,58 @@
+﻿Footer menu pages and URLs
+Column 1 — Explore Vogueritual
+Page
+	Recommended URL
+	Home
+	/
+	Shop All
+	/shop/
+	Shop by Category
+	/product-category/
+	About Us
+	/about-us/
+	Our Commitment
+	/our-commitment/
+	Contact Us
+	/contact-us/
+	FAQs
+	/faqs/
+	Column 2 — Customer Care
+Page
+	Recommended URL
+	Shipping & Delivery
+	/shipping-policy/
+	Returns & Refunds
+	/return-and-refund-policy/
+	Order Cancellations
+	/cancellation-policy/
+	Payment Methods
+	/payment-methods/
+	Warranty & Support
+	/warranty-support/
+	Track Your Order
+	/track-your-order/
+	Order Help Center
+	/order-help-center/
+	You can add Buy Now, Pay Later to this column later if an installment-payment provider is actually enabled.
+Column 3 — Trust & Legal
+Page
+	Recommended URL
+	Privacy Policy
+	/privacy-policy/
+	Terms of Service
+	/terms-of-service/
+	Cookie Policy
+	/cookie-policy/
+	Legal Notice
+	/legal-notice/
+	Accessibility Statement
+	/accessibility-statement/
+	Your Privacy Choices
+	/your-privacy-choices/
+	Column 4 — Get in Touch
+Vogueritual
+Multi-category online retail store
+2260 Porter Way, Stockton, CA 95207, United States
+info@vogueritual.us
++1 (209) 810-5789
+vogueritual.us

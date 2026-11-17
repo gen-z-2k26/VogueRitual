@@ -1,8 +1,8 @@
 {
-  "id": "droviia",
-  "name": "DROVIIA",
-  "tagline": "Everyday essentials for better living",
-  "logo": "/brand/droviia-logo-dark.png",
+  "id": "vogueritual",
+  "name": "Vogueritual",
+  "tagline": "Discover More, Shop with Confidence.",
+  "logo": "/brand/vogueritual-logo-dark.png",
   "currency": "",
   "currencySymbol": "",
   "currencyPrefix": "",
@@ -12,88 +12,168 @@
   "decimalSeparator": ".",
   "locale": "en-US",
   "contact": {
-    "email": "info@droviia.us",
-    "phone": "+1 (424) 329-0223",
-    "address": "1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-    "openingHours": "Mon-Fri, 9:00 AM-5:00 PM PT",
-    "legalName": "Modern Closet Spaces LLC",
+    "email": "info@vogueritual.us",
+    "phone": "+1 (209) 810-5789",
+    "address": "2260 Porter Way, Stockton, CA 95207, United States",
+    "openingHours": "",
+    "legalName": "Vogueritual",
     "vatNumber": ""
   },
   "promoBanner": "",
   "promoId": "",
   "promoCoupon": "",
   "hero": {
-    "headline": "Comfort, convenience, and the essentials for home",
-    "support": "Kitchen appliances, climate control, and personal care, with prices, shipping, and support you can review before you buy."
+    "headline": "A wide selection, one convenient place to shop",
+    "support": "Electronics, lawn and garden, outdoor power equipment, fireplaces, and home products, with free standard shipping throughout the United States."
   },
   "navigation": {
     "header": [
-      { "label": "Home", "href": "/" },
-      { "label": "Shop", "href": "/products" },
-      { "label": "About", "href": "/about-us" },
-      { "label": "FAQs", "href": "/faqs" },
-      { "label": "Contact", "href": "/contact-us" }
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Shop",
+        "href": "/products"
+      },
+      {
+        "label": "About",
+        "href": "/about-us"
+      },
+      {
+        "label": "FAQs",
+        "href": "/faqs"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact-us"
+      }
     ],
     "footerColumns": [
       {
-        "title": "Quick Links",
+        "title": "Explore Vogueritual",
         "slug": "footer-discover",
         "links": [
-          { "label": "Home", "href": "/" },
-          { "label": "Shop All", "href": "/products" },
-          { "label": "Reviews", "href": "/reviews" },
-          { "label": "Categories", "href": "/products" },
-          { "label": "About Us", "href": "/about-us" },
-          { "label": "Our Commitment", "href": "/our-commitment" },
-          { "label": "Contact Us", "href": "/contact-us" }
+          {
+            "label": "Home",
+            "href": "/"
+          },
+          {
+            "label": "Shop All",
+            "href": "/products"
+          },
+          {
+            "label": "Reviews",
+            "href": "/reviews"
+          },
+          {
+            "label": "Shop by Category",
+            "href": "/products"
+          },
+          {
+            "label": "About Us",
+            "href": "/about-us"
+          },
+          {
+            "label": "Our Commitment",
+            "href": "/our-commitment"
+          },
+          {
+            "label": "Contact Us",
+            "href": "/contact-us"
+          }
         ]
       },
       {
         "title": "Customer Care",
         "slug": "footer-customer-care",
         "links": [
-          { "label": "FAQs", "href": "/faqs" },
-          { "label": "Shipping", "href": "/shipping-policy" },
-          { "label": "Returns", "href": "/return-and-refund-policy" },
-          { "label": "Cancellations", "href": "/cancellation-policy" },
-          { "label": "Order Tracking", "href": "/track-your-order" },
-          { "label": "Payments", "href": "/payment-policy" },
-          { "label": "Warranty", "href": "/warranty" },
-          { "label": "Order Help", "href": "/order-help-center" }
+          {
+            "label": "FAQs",
+            "href": "/faqs"
+          },
+          {
+            "label": "Shipping & Delivery",
+            "href": "/shipping-policy"
+          },
+          {
+            "label": "Returns & Refunds",
+            "href": "/return-and-refund-policy"
+          },
+          {
+            "label": "Order Cancellations",
+            "href": "/cancellation-policy"
+          },
+          {
+            "label": "Track Your Order",
+            "href": "/track-your-order"
+          },
+          {
+            "label": "Payment Methods",
+            "href": "/payment-policy"
+          },
+          {
+            "label": "Warranty & Support",
+            "href": "/warranty"
+          },
+          {
+            "label": "Order Help Center",
+            "href": "/order-help-center"
+          }
         ]
       },
       {
-        "title": "Legal & Policies",
+        "title": "Trust & Legal",
         "slug": "footer-trust",
         "links": [
-          { "label": "Privacy", "href": "/privacy-policy" },
-          { "label": "Terms", "href": "/terms-of-service" },
-          { "label": "Cookies", "href": "/cookie-policy" },
-          { "label": "Legal Notice", "href": "/legal-notice" },
-          { "label": "Accessibility", "href": "/accessibility-statement" },
-          { "label": "Privacy Choices", "href": "/your-privacy-choices" }
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Terms of Service",
+            "href": "/terms-of-service"
+          },
+          {
+            "label": "Cookie Policy",
+            "href": "/cookie-policy"
+          },
+          {
+            "label": "Legal Notice",
+            "href": "/legal-notice"
+          },
+          {
+            "label": "Accessibility Statement",
+            "href": "/accessibility-statement"
+          },
+          {
+            "label": "Your Privacy Choices",
+            "href": "/your-privacy-choices"
+          }
         ]
       }
     ]
   },
   "footer": {
-    "blurb": "Everyday essentials for a more comfortable home.",
+    "blurb": "A multi-category online store for home, outdoor, and everyday products.",
     "trustLine": "",
-    "contactTitle": "Customer Support",
-    "chatLine": "24/7 Live Chat"
+    "contactTitle": "Get in Touch",
+    "chatLine": ""
   },
   "seo": {
-    "title": "DROVIIA | Home appliances and everyday essentials",
-    "description": "Shop home appliances, heating and cooling, and personal care at DROVIIA. Operated by Modern Closet Spaces LLC in Gardena, California.",
+    "title": "Vogueritual | Multi-category online retail",
+    "description": "Shop electronics, lawn and garden, outdoor power equipment, fireplaces, and home products at Vogueritual. Free standard shipping throughout the United States.",
     "keywords": [
-      "DROVIIA",
-      "home appliances",
-      "kitchen appliances",
-      "air conditioners",
-      "personal care"
+      "Vogueritual",
+      "electronics",
+      "lawn and garden",
+      "outdoor power equipment",
+      "fireplaces",
+      "saunas",
+      "home improvement"
     ],
-    "ogImage": "/brand/droviia-logo-dark.png",
-    "siteUrl": "https://www.droviia.us"
+    "ogImage": "/brand/vogueritual-logo-dark.png",
+    "siteUrl": "https://vogueritual.us"
   },
   "theme": {
     "font": "var(--font-figtree)",
@@ -102,24 +182,24 @@
     "defaultMode": "system",
     "motion": "subtle",
     "light": {
-      "primary": "#9DCFB0",
-      "accent": "#3E6B52",
+      "primary": "#111111",
+      "accent": "#000000",
       "background": "#FFFFFF",
-      "foreground": "#1C2420",
-      "card": "#F4F7F2",
-      "muted": "#E7F0EA",
-      "mutedForeground": "#5C6B62",
-      "border": "rgba(28, 36, 32, 0.12)"
+      "foreground": "#111111",
+      "card": "#F5F5F5",
+      "muted": "#EDEDED",
+      "mutedForeground": "#5A5A5A",
+      "border": "rgba(17, 17, 17, 0.12)"
     },
     "dark": {
-      "primary": "#9DCFB0",
-      "accent": "#B7DCC4",
-      "background": "#101613",
-      "foreground": "#F3F7F2",
-      "card": "#1A2420",
-      "muted": "#24302A",
-      "mutedForeground": "#A8B7AE",
-      "border": "rgba(243, 247, 242, 0.12)"
+      "primary": "#FFFFFF",
+      "accent": "#E5E5E5",
+      "background": "#111111",
+      "foreground": "#F5F5F5",
+      "card": "#1A1A1A",
+      "muted": "#262626",
+      "mutedForeground": "#A3A3A3",
+      "border": "rgba(245, 245, 245, 0.14)"
     }
   },
   "productPage": {
@@ -140,8 +220,8 @@
       {
         "reviewer": "Amina K.",
         "rating": 5,
-        "title": "Better than the photos",
-        "content": "Packaging was careful and the item looked even better in person. Checkout was quick and tracking updates were clear.",
+        "title": "Clear from the start",
+        "content": "The listing showed what I needed before I ordered. Tracking was easy to follow and the box arrived in good shape.",
         "date": "2026-09-18",
         "verified": true,
         "location": "California, USA"
@@ -149,8 +229,8 @@
       {
         "reviewer": "James R.",
         "rating": 5,
-        "title": "Would order again",
-        "content": "Arrived on time and matched the description. The whole process from cart to delivery felt straightforward.",
+        "title": "Straightforward order",
+        "content": "I bought outdoor equipment and the checkout total matched what I expected. Delivery fit the published estimate.",
         "date": "2026-09-02",
         "verified": true,
         "location": "Texas, USA"
@@ -158,8 +238,8 @@
       {
         "reviewer": "Sofia M.",
         "rating": 4,
-        "title": "Great value",
-        "content": "Solid quality for the price. Support answered my question the same day, which made the purchase easy.",
+        "title": "Helpful when I asked",
+        "content": "I had a question about a monitor before buying. Support replied the same day with the details from the listing.",
         "date": "2026-08-21",
         "verified": true,
         "location": "New York, USA"
@@ -167,8 +247,8 @@
       {
         "reviewer": "Daniel P.",
         "rating": 5,
-        "title": "Well made and well packed",
-        "content": "Easy to buy, clear tracking, and the product feels well made. I would shop here again without hesitation.",
+        "title": "Well packed",
+        "content": "A fireplace accessory arrived carefully packed. The description matched the item.",
         "date": "2026-08-09",
         "verified": true,
         "location": "Florida, USA"
@@ -176,8 +256,8 @@
       {
         "reviewer": "Priya S.",
         "rating": 5,
-        "title": "Exactly as described",
-        "content": "Exactly what I needed. The photos were accurate and shipping was smooth from start to finish.",
+        "title": "Easy to compare",
+        "content": "I could review specs across a few products without hunting through different stores. Shipping was free, as stated.",
         "date": "2026-07-28",
         "verified": true,
         "location": "Illinois, USA"
@@ -185,8 +265,8 @@
       {
         "reviewer": "Noah L.",
         "rating": 4,
-        "title": "Happy overall",
-        "content": "Happy with the purchase. Quality is good. Delivery took a little longer than I hoped, but the item was worth the wait.",
+        "title": "Worth the wait",
+        "content": "Transit took a few business days, inside the range on the shipping page. The product was what I ordered.",
         "date": "2026-07-14",
         "verified": true,
         "location": "Washington, USA"
@@ -194,8 +274,8 @@
       {
         "reviewer": "Elena V.",
         "rating": 5,
-        "title": "Perfect as a gift",
-        "content": "Gifted this and they loved it. Simple process from cart to door, and the packaging looked ready to give.",
+        "title": "Good gift",
+        "content": "I sent a small home item as a gift. Checkout was simple and the package arrived ready to hand over.",
         "date": "2026-06-30",
         "verified": true,
         "location": "Colorado, USA"
@@ -203,8 +283,8 @@
       {
         "reviewer": "Omar H.",
         "rating": 5,
-        "title": "Clean store, fair prices",
-        "content": "Clean store, fair prices, and the item was packed securely. No surprises, which is what I want from an online order.",
+        "title": "No surprises",
+        "content": "Prices were in dollars, tax showed at checkout, and the item was packed securely.",
         "date": "2026-06-11",
         "verified": true,
         "location": "Georgia, USA"
@@ -212,8 +292,8 @@
       {
         "reviewer": "Maya T.",
         "rating": 5,
-        "title": "Fast and careful shipping",
-        "content": "Ordered in the evening and had tracking the next morning. Everything arrived undamaged and ready to use.",
+        "title": "Tracking the next day",
+        "content": "I ordered in the evening and had a tracking update after the carrier scanned it. Everything arrived undamaged.",
         "date": "2026-05-22",
         "verified": true,
         "location": "Arizona, USA"
@@ -221,8 +301,8 @@
       {
         "reviewer": "Chris B.",
         "rating": 4,
-        "title": "Would recommend",
-        "content": "Good quality and a fair price. The site was easy to use. I would recommend it to a friend.",
+        "title": "Simple to use",
+        "content": "The site was easy to browse across categories. I would send a friend here for a similar purchase.",
         "date": "2026-05-04",
         "verified": true,
         "location": "Ohio, USA"
@@ -230,8 +310,8 @@
       {
         "reviewer": "Lina W.",
         "rating": 3,
-        "title": "Fine, not perfect",
-        "content": "The item is fine and does the job. Sizing notes on the page could be a bit clearer, but support helped quickly.",
+        "title": "Fine overall",
+        "content": "The product does the job. I wanted one more detail on the listing, and support answered when I wrote in.",
         "date": "2026-04-16",
         "verified": true,
         "location": "Massachusetts, USA"
@@ -240,7 +320,7 @@
         "reviewer": "Theo A.",
         "rating": 5,
         "title": "Smooth checkout",
-        "content": "Checkout was simple, the total was clear before I paid, and the order showed up when promised.",
+        "content": "The total was clear before I paid, and the order showed up within the stated delivery window.",
         "date": "2026-03-29",
         "verified": true,
         "location": "Oregon, USA"

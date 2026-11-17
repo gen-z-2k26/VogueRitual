@@ -24,7 +24,7 @@ export default async function ReviewsPage() {
         current="Reviews"
         eyebrow={`${settings.name} · United States`}
         title={`${total} reviews from across the USA`}
-        description={`${total} shopper reviews of ${settings.name} from ${stateCount} states. People wrote about the appliances and personal-care items they ordered, plus packing and delivery to their city. Filter by star rating or sort by date.`}
+        description={`${total} shopper reviews of ${settings.name} from ${stateCount} states. People wrote about the products they ordered, plus packing and delivery to their city. Filter by star rating or sort by date.`}
       />
 
       <div className="mt-10">

@@ -50,7 +50,7 @@ export async function generateMetadata(): Promise<Metadata> {
       creator: settings.name,
       keywords: settings.seo.keywords.length
         ? settings.seo.keywords
-        : [settings.name, "home appliances", "personal care"],
+        : [settings.name, "electronics", "lawn and garden", "home products"],
       openGraph: {
         type: "website",
         siteName: settings.name,
@@ -69,6 +69,9 @@ export async function generateMetadata(): Promise<Metadata> {
         title,
         description,
         images: [ogImage],
+      },
+      verification: {
+        google: "dbxo56dvfIsfrkCV0iVJzxO9t5v1XlM2isIL0S7U01A",
       },
       robots: {
         index: true,

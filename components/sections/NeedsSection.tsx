@@ -7,35 +7,35 @@ import { cn } from "@/lib/utils";
 
 const needs = [
   {
-    title: "Kitchen and laundry",
-    text: "Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-    image: "/brand/collection-kitchen.jpg",
-    alt: "Kitchen with a refrigerator, range hood, and stacked laundry",
-    imageClass: "object-[62%_center]",
+    title: "Electronics and entertainment",
+    text: "Gaming consoles, TVs, computer monitors, and related electronics.",
+    image: "/brand/collection-home.jpg",
+    alt: "Living space set up for entertainment",
+    imageClass: "object-[24%_42%]",
     tile: "feature" as const,
   },
   {
-    title: "Heating and air",
-    text: "Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
+    title: "Lawn and garden",
+    text: "Awnings, gazebos, pergolas, greenhouses, porch swings, and other outdoor essentials.",
     image: "/brand/collection-climate.jpg",
-    alt: "Living room with a wall-mounted air conditioner",
+    alt: "Outdoor living space",
     imageClass: "object-[center_22%]",
     tile: "wide" as const,
   },
   {
-    title: "Hair and personal care",
-    text: "Dryers, straighteners, curling irons, and styling sets.",
-    image: "/brand/collection-care.jpg",
-    alt: "Hair dryer and straightener on a bathroom vanity",
-    imageClass: "object-[center_58%]",
+    title: "Outdoor power equipment",
+    text: "Chainsaws, pressure washers, lawn equipment, leaf blowers, and snow blowers.",
+    image: "/brand/collection-kitchen.jpg",
+    alt: "Equipment for outdoor work",
+    imageClass: "object-[62%_center]",
     tile: "compact" as const,
   },
   {
-    title: "Home and commercial",
-    text: "Garage door openers and hand dryers for practical spaces.",
-    image: "/brand/collection-home.jpg",
-    alt: "Garage with a sectional door and opener rail",
-    imageClass: "object-[24%_42%]",
+    title: "Fireplaces, saunas, and home",
+    text: "Fireplaces, wood stoves, saunas, medicine cabinets, and related home products.",
+    image: "/brand/collection-care.jpg",
+    alt: "Home products",
+    imageClass: "object-[center_58%]",
     tile: "compact" as const,
   },
 ];
@@ -78,7 +78,7 @@ export function NeedsSection() {
               key={item.title}
               href="/products"
               className={cn(
-                "group relative isolate flex overflow-hidden rounded-2xl bg-[#101613] text-white",
+                "group relative isolate flex overflow-hidden rounded-2xl bg-[#111111] text-white",
                 tileClass[item.tile],
               )}
             >
@@ -98,7 +98,7 @@ export function NeedsSection() {
               />
               <div
                 aria-hidden
-                className="absolute inset-0 bg-gradient-to-t from-[#101613]/92 via-[#101613]/45 to-[#101613]/10"
+                className="absolute inset-0 bg-gradient-to-t from-[#111111]/92 via-[#111111]/45 to-[#111111]/10"
               />
               <div
                 className={cn(
@@ -110,7 +110,7 @@ export function NeedsSection() {
                   {item.title}
                 </h3>
                 <p className={copyClass[item.tile]}>{item.text}</p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#9DCFB0]">
+                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#E5E5E5]">
                   Shop collection
                   <ArrowRight className="size-4 transition-transform duration-200 group-hover:translate-x-0.5" />
                 </span>

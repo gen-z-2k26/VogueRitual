@@ -2,1438 +2,1256 @@
   "pages": [
     {
       "slug": "about-us",
-      "title": "About DROVIIA",
+      "title": "About Us",
       "effectiveDate": "",
-      "tagline": "Bringing comfort, convenience, and innovation to everyday living",
+      "tagline": "Discover More, Shop with Confidence.",
       "intro": [
-        "About DROVIIA"
+        "At Vogueritual, we believe online shopping should provide convenience, variety, and clear information."
       ],
-      "description": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
+      "description": "At Vogueritual, we believe online shopping should provide convenience, variety, and clear information.",
       "sections": [
         {
-          "id": "bringing-comfort-convenience-and-innovation-to-everyday-living",
-          "title": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
+          "id": "welcome-to-vogueritual",
+          "title": "Welcome to Vogueritual",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible."
+              "text": "At Vogueritual, we believe online shopping should provide convenience, variety, and clear information."
             },
             {
               "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles."
+              "text": "We are a US-based multi-category online retailer offering products across different areas of everyday life, including electronics, home improvement, outdoor living, lawn and garden, power equipment, fireplaces, and wellness."
             },
             {
               "type": "paragraph",
-              "text": "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support."
+              "text": "Our goal is to bring a wide selection of products together in one convenient shopping destination."
             }
           ]
         },
         {
-          "id": "everything-you-need-for-a-more-comfortable-home",
-          "title": "Everything You Need for a More Comfortable Home",
+          "id": "vogueritual-operates-through-our-official-website",
+          "title": "Vogueritual operates through our official website:",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Every home is different, and so are the products that make it work."
+              "text": "https://vogueritual.us"
             },
             {
               "type": "paragraph",
-              "text": "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination."
+              "text": "Our business is located in Stockton, California, and serves customers throughout the United States."
             },
             {
               "type": "paragraph",
-              "text": "Explore our product collections:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-                "Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-                "Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-                "Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information."
+              "text": "We aim to help customers explore products, compare available options, and make informed purchasing decisions."
             }
           ]
         },
         {
-          "id": "our-approach-to-online-shopping",
-          "title": "Our Approach to Online Shopping",
+          "id": "what-we-offer",
+          "title": "What We Offer",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Shopping for home appliances and electronics should feel straightforward, not overwhelming."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we focus on the details that matter most to customers."
+              "text": "Our store features a broad selection of product categories."
             }
           ]
         },
         {
-          "id": "a-wide-range-of-practical-products",
-          "title": "A Wide Range of Practical Products",
+          "id": "electronics-entertainment",
+          "title": "Electronics & Entertainment",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines."
+              "text": "Gaming consoles, TVs, computer monitors, and related electronics."
             }
           ]
         },
         {
-          "id": "clear-product-information",
-          "title": "Clear Product Information",
+          "id": "lawn-garden",
+          "title": "Lawn & Garden",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing."
+              "text": "Awnings, gazebos, pergolas, greenhouses, porch swings, and other outdoor essentials."
             }
           ]
         },
         {
-          "id": "transparent-pricing-and-checkout",
-          "title": "Transparent Pricing and Checkout",
+          "id": "outdoor-power-equipment",
+          "title": "Outdoor Power Equipment",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process."
+              "text": "Chainsaws, pressure washers, lawn maintenance equipment, leaf blowers, snow blowers, and more."
             }
           ]
         },
         {
-          "id": "customer-support-when-you-need-it",
-          "title": "Customer Support When You Need It",
+          "id": "fireplaces-heating",
+          "title": "Fireplaces & Heating",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests."
+              "text": "Fireplaces, wood stoves, fireplace screens, hearth pads, and log storage solutions."
             }
           ]
         },
         {
-          "id": "shopping-with-confidence",
-          "title": "Shopping with Confidence",
+          "id": "saunas-home-improvement",
+          "title": "Saunas & Home Improvement",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We understand that purchasing appliances and electronics online requires careful consideration."
+              "text": "Saunas, medicine cabinets, and related home products."
             },
             {
               "type": "paragraph",
-              "text": "That's why we emphasize clear communication, accessible support, and straightforward shopping policies."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer experience is built around:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Convenient online shopping: Browse products and place orders from wherever you are.",
-                "Order transparency: Review your order information and available shipment tracking details.",
-                "Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-                "Accessible assistance: Contact our customer care team when you need help.",
-                "Secure checkout: Complete purchases through the payment options available at checkout."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe customer confidence comes from providing accurate information and following through on our commitments."
+              "text": "Our catalog may expand as new products become available."
             }
           ]
         },
         {
-          "id": "our-commitment-to-you",
-          "title": "Our Commitment to You",
+          "id": "our-mission",
+          "title": "Our Mission",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, our commitment extends beyond offering products."
+              "text": "Our mission is to make everyday shopping simpler by bringing useful products from different categories together on one platform."
             },
             {
               "type": "paragraph",
-              "text": "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise."
-            },
-            {
-              "type": "paragraph",
-              "text": "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient."
-            },
-            {
-              "type": "paragraph",
-              "text": "Your home. Your comfort. Your everyday essentials."
+              "text": "We aim to support customers with clear product information, transparent policies, and convenient shipping."
             }
           ]
         },
         {
-          "id": "get-to-know-droviia",
-          "title": "Get to Know DROVIIA",
+          "id": "a-wide-product-selection",
+          "title": "A Wide Product Selection",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California."
+              "text": "Explore multiple categories without having to visit separate specialty stores."
+            }
+          ]
+        },
+        {
+          "id": "free-shipping-throughout-the-usa",
+          "title": "Free Shipping Throughout the USA",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "All orders qualify for free standard shipping, with no minimum purchase requirement."
+            }
+          ]
+        },
+        {
+          "id": "clear-delivery-estimates",
+          "title": "Clear Delivery Estimates",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We provide standard handling and transit estimates so customers can plan their purchases."
+            }
+          ]
+        },
+        {
+          "id": "customer-friendly-returns",
+          "title": "Customer-Friendly Returns",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We accept eligible defective and non-defective product returns within 30 days."
+            }
+          ]
+        },
+        {
+          "id": "transparent-shopping-policies",
+          "title": "Transparent Shopping Policies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website explains shipping, returns, refunds, cancellations, and available payment methods."
+            }
+          ]
+        },
+        {
+          "id": "our-vision",
+          "title": "Our Vision",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to make Vogueritual a convenient destination for customers seeking products for their homes, entertainment, outdoor activities, and daily needs."
+            }
+          ]
+        },
+        {
+          "id": "vogueritual",
+          "title": "Vogueritual",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2260 Porter Way"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Email: info@vogueritual.us"
             },
             {
               "type": "paragraph",
-              "text": "We welcome questions about our products, orders, and customer service policies."
+              "text": "Phone: +1 (209) 810-5789"
             },
             {
               "type": "paragraph",
-              "text": "Business Information"
+              "text": "Website: https://vogueritual.us"
             },
             {
               "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Care"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
+              "text": "Vogueritual — Discover More, Shop with Confidence."
             }
           ]
         }
       ],
       "lines": [
-        "About DROVIIA",
-        "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-        "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles.",
-        "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support.",
-        "Everything You Need for a More Comfortable Home",
-        "Every home is different, and so are the products that make it work.",
-        "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination.",
-        "Explore our product collections:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-        "* Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications.",
-        "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information.",
-        "Our Approach to Online Shopping",
-        "Shopping for home appliances and electronics should feel straightforward, not overwhelming.",
-        "At DROVIIA, we focus on the details that matter most to customers.",
-        "A Wide Range of Practical Products",
-        "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines.",
-        "Clear Product Information",
-        "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing.",
-        "Transparent Pricing and Checkout",
-        "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process.",
-        "Customer Support When You Need It",
-        "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests.",
-        "Shopping with Confidence",
-        "We understand that purchasing appliances and electronics online requires careful consideration.",
-        "That's why we emphasize clear communication, accessible support, and straightforward shopping policies.",
-        "Our customer experience is built around:",
-        "* Convenient online shopping: Browse products and place orders from wherever you are.",
-        "* Order transparency: Review your order information and available shipment tracking details.",
-        "* Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-        "* Accessible assistance: Contact our customer care team when you need help.",
-        "* Secure checkout: Complete purchases through the payment options available at checkout.",
-        "We believe customer confidence comes from providing accurate information and following through on our commitments.",
-        "Our Commitment to You",
-        "At DROVIIA, our commitment extends beyond offering products.",
-        "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise.",
-        "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient.",
-        "Your home. Your comfort. Your everyday essentials.",
-        "Get to Know DROVIIA",
-        "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California.",
-        "We welcome questions about our products, orders, and customer service policies.",
-        "Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-        "Website: https://droviia.us",
-        "Customer Care",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Welcome to Vogueritual",
+        "At Vogueritual, we believe online shopping should provide convenience, variety, and clear information.",
+        "We are a US-based multi-category online retailer offering products across different areas of everyday life, including electronics, home improvement, outdoor living, lawn and garden, power equipment, fireplaces, and wellness.",
+        "Our goal is to bring a wide selection of products together in one convenient shopping destination.",
+        "Who We Are",
+        "Vogueritual operates through our official website:",
+        "https://vogueritual.us",
+        "Our business is located in Stockton, California, and serves customers throughout the United States.",
+        "We aim to help customers explore products, compare available options, and make informed purchasing decisions.",
+        "What We Offer",
+        "Our store features a broad selection of product categories.",
+        "Electronics & Entertainment",
+        "Gaming consoles, TVs, computer monitors, and related electronics.",
+        "Lawn & Garden",
+        "Awnings, gazebos, pergolas, greenhouses, porch swings, and other outdoor essentials.",
+        "Outdoor Power Equipment",
+        "Chainsaws, pressure washers, lawn maintenance equipment, leaf blowers, snow blowers, and more.",
+        "Fireplaces & Heating",
+        "Fireplaces, wood stoves, fireplace screens, hearth pads, and log storage solutions.",
+        "Saunas & Home Improvement",
+        "Saunas, medicine cabinets, and related home products.",
+        "Our catalog may expand as new products become available.",
+        "Our Mission",
+        "Our mission is to make everyday shopping simpler by bringing useful products from different categories together on one platform.",
+        "We aim to support customers with clear product information, transparent policies, and convenient shipping.",
+        "Why Choose Vogueritual?",
+        "A Wide Product Selection",
+        "Explore multiple categories without having to visit separate specialty stores.",
+        "Free Shipping Throughout the USA",
+        "All orders qualify for free standard shipping, with no minimum purchase requirement.",
+        "Clear Delivery Estimates",
+        "We provide standard handling and transit estimates so customers can plan their purchases.",
+        "Customer-Friendly Returns",
+        "We accept eligible defective and non-defective product returns within 30 days.",
+        "Transparent Shopping Policies",
+        "Our website explains shipping, returns, refunds, cancellations, and available payment methods.",
+        "Our Vision",
+        "We aim to make Vogueritual a convenient destination for customers seeking products for their homes, entertainment, outdoor activities, and daily needs.",
+        "Contact Vogueritual",
+        "Vogueritual",
+        "2260 Porter Way",
+        "Stockton, CA 95207",
+        "United States",
+        "Email: info@vogueritual.us",
+        "Phone: +1 (209) 810-5789",
+        "Website: https://vogueritual.us",
+        "Vogueritual — Discover More, Shop with Confidence."
       ]
     },
     {
       "slug": "contact-us",
       "title": "Contact Us",
       "effectiveDate": "",
-      "tagline": "We're here to help",
-      "intro": [],
-      "description": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our sh",
+      "tagline": "Email: info@vogueritual.us",
+      "intro": [
+        "Address: 2260 Porter Way, Stockton, CA 95207, United States"
+      ],
+      "description": "Whether you have a question about a product, need assistance with an order, or want information about shipping or returns, you can contact our customer support team.",
       "sections": [
+        {
+          "id": "contact-us",
+          "title": "Contact Us",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Email: info@vogueritual.us"
+            },
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (209) 810-5789"
+            },
+            {
+              "type": "paragraph",
+              "text": "Address: 2260 Porter Way, Stockton, CA 95207, United States"
+            },
+            {
+              "type": "paragraph",
+              "text": "Website: https://vogueritual.us"
+            }
+          ]
+        },
         {
           "id": "we-re-here-to-help",
           "title": "We're Here to Help",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist."
+              "text": "Thank you for visiting Vogueritual."
             },
             {
               "type": "paragraph",
-              "text": "We value every customer inquiry and aim to provide clear, helpful, and professional support."
+              "text": "Whether you have a question about a product, need assistance with an order, or want information about shipping or returns, you can contact our customer support team."
             }
           ]
         },
         {
-          "id": "get-in-touch-with-droviia",
-          "title": "Get in Touch With DROVIIA",
+          "id": "customer-service-information",
+          "title": "Customer Service Information",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Have a question or need assistance? Choose the contact method that works best for you."
+              "text": "Email: info@vogueritual.us"
             },
             {
               "type": "paragraph",
-              "text": "Email Support"
+              "text": "Phone: +1 (209) 810-5789"
             },
             {
               "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email."
-            },
-            {
-              "type": "paragraph",
-              "text": "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently."
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone Support"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team is available during regular business hours to assist with questions about our products and services."
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-                "Saturday–Sunday: Outside regular phone support hours"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support — Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need assistance outside regular business hours?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time."
-            },
-            {
-              "type": "paragraph",
-              "text": "Look for the chat icon on our website to get started."
-            },
-            {
-              "type": "paragraph",
-              "text": "How Can We Help You?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team can assist with a variety of inquiries, including:"
+              "text": "Website: https://vogueritual.us"
             }
           ]
         },
         {
-          "id": "product-information-availability",
-          "title": "Product Information & Availability",
+          "id": "vogueritual",
+          "title": "Vogueritual",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Need help understanding product specifications, features, or availability? Contact us before placing your order."
+              "text": "2260 Porter Way"
             }
           ]
         },
         {
-          "id": "order-status-tracking",
-          "title": "Order Status & Tracking",
+          "id": "united-states",
+          "title": "United States",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information."
-            },
-            {
-              "type": "paragraph",
-              "text": "Shipping & Delivery"
-            },
-            {
-              "type": "paragraph",
-              "text": "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options."
-            },
-            {
-              "type": "paragraph",
-              "text": "Returns & Refunds"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy."
-            },
-            {
-              "type": "paragraph",
-              "text": "Payments & Checkout"
-            },
-            {
-              "type": "paragraph",
-              "text": "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance."
+              "text": "This is our published business address. Merchandise returns should follow the authorized return instructions."
             }
           ]
         },
         {
-          "id": "warranty-product-support",
-          "title": "Warranty & Product Support",
+          "id": "contact-us-for-assistance-with",
+          "title": "Contact us for assistance with:",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details."
+              "type": "bullet",
+              "text": "Product specifications and availability"
+            },
+            {
+              "type": "bullet",
+              "text": "Placing an order"
+            },
+            {
+              "type": "bullet",
+              "text": "Order confirmation"
+            },
+            {
+              "type": "bullet",
+              "text": "Order tracking"
+            },
+            {
+              "type": "bullet",
+              "text": "Shipping and delivery"
+            },
+            {
+              "type": "bullet",
+              "text": "Order cancellations"
+            },
+            {
+              "type": "bullet",
+              "text": "Returns and exchanges"
+            },
+            {
+              "type": "bullet",
+              "text": "Refund status"
+            },
+            {
+              "type": "bullet",
+              "text": "Damaged or incorrect items"
+            },
+            {
+              "type": "bullet",
+              "text": "Warranty information, where applicable"
             }
           ]
         },
         {
-          "id": "send-us-a-message",
-          "title": "Send Us a Message",
+          "id": "order-related-questions",
+          "title": "Order-Related Questions",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "You can also reach us through the contact form on this page."
+              "text": "Please include the following when contacting us about an existing order:"
+            },
+            {
+              "type": "bullet",
+              "text": "Full name"
+            },
+            {
+              "type": "bullet",
+              "text": "Order number"
+            },
+            {
+              "type": "bullet",
+              "text": "Email address used during checkout"
+            },
+            {
+              "type": "bullet",
+              "text": "Description of your inquiry"
             },
             {
               "type": "paragraph",
-              "text": "Please provide the following information:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Full Name",
-                "Email Address",
-                "Phone Number (Optional)",
-                "Order Number (If Applicable)",
-                "Subject",
-                "Your Message"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "For order-related inquiries, please include relevant details to help us understand your request."
-            },
-            {
-              "type": "paragraph",
-              "text": "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our Business Information"
-            },
-            {
-              "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247"
-            },
-            {
-              "type": "paragraph",
-              "text": "United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions."
-            },
-            {
-              "type": "paragraph",
-              "text": "Helpful Resources"
-            },
-            {
-              "type": "paragraph",
-              "text": "Looking for quick answers? Visit our customer support pages for additional information."
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Frequently Asked Questions: /faqs/",
-                "Shipping & Delivery: /shipping-policy/",
-                "Returns & Refunds: /return-and-refund-policy/",
-                "Track Your Order: /track-your-order/",
-                "Order Help Center: /order-help-center/",
-                "Warranty & Product Support: /warranty/"
-              ]
+              "text": "For damaged or incorrect products, photographs may help us review the issue."
             }
           ]
         },
         {
-          "id": "your-satisfaction-matters",
-          "title": "Your Satisfaction Matters",
+          "id": "returns-and-exchanges",
+          "title": "Returns and Exchanges",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly."
+              "text": "Eligible returns and exchanges are accepted within 30 days under our published policy."
             },
             {
               "type": "paragraph",
-              "text": "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process."
+              "text": "For return assistance, email info@vogueritual.us before sending a product back."
+            }
+          ]
+        },
+        {
+          "id": "recommended-contact-form-fields",
+          "title": "Recommended contact form fields:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Full Name"
+            },
+            {
+              "type": "bullet",
+              "text": "Email Address"
+            },
+            {
+              "type": "bullet",
+              "text": "Phone Number (Optional)"
+            },
+            {
+              "type": "bullet",
+              "text": "Order Number (If Applicable)"
+            },
+            {
+              "type": "bullet",
+              "text": "Inquiry Type"
+            },
+            {
+              "type": "bullet",
+              "text": "Message"
             },
             {
               "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
+              "text": "Please do not submit passwords, complete payment card numbers, or security codes."
+            }
+          ]
+        },
+        {
+          "id": "return-window-30-days",
+          "title": "Return Window: 30 days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We appreciate your interest in Vogueritual."
             }
           ]
         }
       ],
       "lines": [
+        "Email: info@vogueritual.us",
+        "Phone: +1 (209) 810-5789",
+        "Address: 2260 Porter Way, Stockton, CA 95207, United States",
+        "Website: https://vogueritual.us",
         "Contact Us",
         "We're Here to Help",
-        "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist.",
-        "We value every customer inquiry and aim to provide clear, helpful, and professional support.",
-        "Get in Touch With DROVIIA",
-        "Have a question or need assistance? Choose the contact method that works best for you.",
-        "Email Support",
-        "Email: info@droviia.us",
-        "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email.",
-        "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently.",
-        "Phone Support",
-        "Phone: +1 (424) 329-0223",
-        "Our customer care team is available during regular business hours to assist with questions about our products and services.",
-        "Business Hours:",
-        "* Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-        "* Saturday–Sunday: Outside regular phone support hours",
-        "Live Chat Support — Available 24/7",
-        "Need assistance outside regular business hours?",
-        "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time.",
-        "Look for the chat icon on our website to get started.",
-        "How Can We Help You?",
-        "Our customer care team can assist with a variety of inquiries, including:",
-        "Product Information & Availability",
-        "Need help understanding product specifications, features, or availability? Contact us before placing your order.",
-        "Order Status & Tracking",
-        "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information.",
-        "Shipping & Delivery",
-        "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options.",
-        "Returns & Refunds",
-        "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy.",
-        "Payments & Checkout",
-        "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance.",
-        "Warranty & Product Support",
-        "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details.",
-        "Send Us a Message",
-        "You can also reach us through the contact form on this page.",
-        "Please provide the following information:",
+        "Thank you for visiting Vogueritual.",
+        "Whether you have a question about a product, need assistance with an order, or want information about shipping or returns, you can contact our customer support team.",
+        "Customer Service Information",
+        "Email: info@vogueritual.us",
+        "Phone: +1 (209) 810-5789",
+        "Website: https://vogueritual.us",
+        "Business Address",
+        "Vogueritual",
+        "2260 Porter Way",
+        "Stockton, CA 95207",
+        "United States",
+        "This is our published business address. Merchandise returns should follow the authorized return instructions.",
+        "How Can We Help?",
+        "Contact us for assistance with:",
+        "* Product specifications and availability",
+        "* Placing an order",
+        "* Order confirmation",
+        "* Order tracking",
+        "* Shipping and delivery",
+        "* Order cancellations",
+        "* Returns and exchanges",
+        "* Refund status",
+        "* Damaged or incorrect items",
+        "* Warranty information, where applicable",
+        "Order-Related Questions",
+        "Please include the following when contacting us about an existing order:",
+        "* Full name",
+        "* Order number",
+        "* Email address used during checkout",
+        "* Description of your inquiry",
+        "For damaged or incorrect products, photographs may help us review the issue.",
+        "Returns and Exchanges",
+        "Eligible returns and exchanges are accepted within 30 days under our published policy.",
+        "For return assistance, email info@vogueritual.us before sending a product back.",
+        "Contact Form",
+        "Recommended contact form fields:",
         "* Full Name",
         "* Email Address",
         "* Phone Number (Optional)",
         "* Order Number (If Applicable)",
-        "* Subject",
-        "* Your Message",
-        "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible.",
-        "For order-related inquiries, please include relevant details to help us understand your request.",
-        "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message.",
-        "Our Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
-        "United States",
-        "Website: https://droviia.us",
-        "Customer Support Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions.",
-        "Helpful Resources",
-        "Looking for quick answers? Visit our customer support pages for additional information.",
-        "* Frequently Asked Questions: /faqs/",
-        "* Shipping & Delivery: /shipping-policy/",
-        "* Returns & Refunds: /return-and-refund-policy/",
-        "* Track Your Order: /track-your-order/",
-        "* Order Help Center: /order-help-center/",
-        "* Warranty & Product Support: /warranty/",
-        "Your Satisfaction Matters",
-        "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly.",
-        "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "* Inquiry Type",
+        "* Message",
+        "Please do not submit passwords, complete payment card numbers, or security codes.",
+        "Helpful Information",
+        "Standard Shipping: Free throughout the USA",
+        "Order Handling: 1–3 business days",
+        "Shipping Transit: 3–5 business days",
+        "Estimated Delivery: 4–8 business days",
+        "Return Window: 30 days",
+        "We appreciate your interest in Vogueritual."
       ]
     },
     {
       "slug": "faqs",
-      "title": "Frequently Asked Questions (FAQs)",
+      "title": "Frequently Asked Questions",
       "effectiveDate": "",
-      "tagline": "How can we help you?",
+      "tagline": "General Questions",
       "intro": [
-        "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions."
+        "Find answers to commonly asked questions about shopping with Vogueritual."
       ],
-      "description": "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
+      "description": "Find answers to commonly asked questions about shopping with Vogueritual.",
       "sections": [
         {
-          "id": "overview",
-          "title": "Overview",
+          "id": "preview",
+          "title": "General Questions",
+          "blocks": [
+            {
+              "type": "faq",
+              "question": "What is Vogueritual?",
+              "answer": "Vogueritual is a multi-category online store offering products across electronics, home improvement, lawn and garden, fireplaces, outdoor power equipment, wellness, and other categories."
+            },
+            {
+              "type": "faq",
+              "question": "What is your official website?",
+              "answer": "Our official website is https://vogueritual.us."
+            },
+            {
+              "type": "faq",
+              "question": "Where is Vogueritual located?",
+              "answer": "Our business address is 2260 Porter Way, Stockton, CA 95207, United States."
+            }
+          ]
+        },
+        {
+          "id": "frequently-asked-questions",
+          "title": "Frequently Asked Questions",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support."
+              "text": "Find answers to commonly asked questions about shopping with Vogueritual."
             }
           ]
         },
         {
-          "id": "general-questions",
-          "title": "1. General Questions",
+          "id": "what-is-vogueritual",
+          "title": "What is Vogueritual?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "What is DROVIIA?",
-              "answer": "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials. Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more. DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California. Where is DROVIIA located? Our business information is: DROVIIA — Modern Closet Spaces LLC 1320 W El Segundo Blvd Ste E Gardena, CA 90247, United States You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us. Please note that our listed business address is not automatically an authorized return location. Is DROVIIA an online store? Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online. What types of products does DROVIIA sell? Our product selection includes: Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances. Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters. Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets. Home & Commercial Essentials: Hand dryers and garage door openers. Product selection and availability may change over time. Are your products new and authentic? Product condition, brand, model, and included accessories should be identified in each listing. We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order. Why are some products offered at discounted prices? Product prices may vary based on inventory, promotional offers, product models, and market conditions. Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective. Please review the individual listing for the product's condition and specifications. Are you an authorized dealer for every brand you sell? Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed. If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering."
+              "type": "paragraph",
+              "text": "Vogueritual is a multi-category online store offering products across electronics, home improvement, lawn and garden, fireplaces, outdoor power equipment, wellness, and other categories."
             }
           ]
         },
         {
-          "id": "orders-product-availability",
-          "title": "2. Orders & Product Availability",
+          "id": "what-is-your-official-website",
+          "title": "What is your official website?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "How do I place an order?",
-              "answer": "Ordering from DROVIIA is straightforward: Browse our product categories or use the search feature. Select the product you want and review its specifications. Choose any available product options. Add the item to your shopping cart. Proceed to checkout and enter your delivery information. Review your order total, shipping charges, and payment options. Complete your purchase. Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout. Can I place an order without creating an account? Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account. How can I check whether a product is in stock? Product availability is generally displayed on the product page. If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering. What happens if an item becomes unavailable after I place an order? If an ordered product becomes unavailable, our team will contact you to explain the situation and available options. Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund. We will not substitute a different product without your agreement. Can I modify or cancel my order? Please contact us as soon as possible at info@droviia.us with your order number and requested change. We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible. Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible. For more information, review our Order Cancellation Policy. Can I order multiple products at once? Yes. You can add multiple available products to your cart and complete checkout together. Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments."
+              "type": "paragraph",
+              "text": "Our official website is https://vogueritual.us."
             }
           ]
         },
         {
-          "id": "shipping-delivery",
-          "title": "3. Shipping & Delivery",
+          "id": "where-is-vogueritual-located",
+          "title": "Where is Vogueritual located?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "Where does DROVIIA ship?",
-              "answer": "DROVIIA serves customers in the United States. Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions. How much does shipping cost? Our current standard shipping schedule is: Orders below $100 USD: $5 standard shipping. Orders of $100 USD or more: Free standard shipping. These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase. The applicable shipping charge will be displayed during checkout. How long does delivery take? For orders eligible for our standard parcel shipping service, our current estimates are: Order processing: 0–1 business days. Carrier transit: 3–5 business days. Total estimated delivery: 3–6 business days. These estimates are not guaranteed delivery dates. Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details. What is your daily order cutoff time? Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days. Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day. Which shipping carriers do you use? Our standard parcel shipping carriers include: USPS UPS The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier. How can I track my order? When your order ships, we'll send a shipping confirmation email containing the available tracking information. You can follow your shipment using the carrier's tracking service or visit our Track Your Order page. What should I do if my order is delayed? If your order hasn't arrived within the expected delivery window, review your tracking information first. If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number. Our team will help review the available shipment information. What if my package arrives damaged? Please inspect your delivery as soon as reasonably possible. If the package or product appears damaged, contact us promptly at info@droviia.us. Include your order number, a description of the issue, and clear photographs of the product and packaging. For large appliances, retain the packaging and any delivery documentation while our team reviews your claim."
+              "type": "paragraph",
+              "text": "Our business address is 2260 Porter Way, Stockton, CA 95207, United States."
             }
           ]
         },
         {
-          "id": "payments-pricing",
-          "title": "4. Payments & Pricing",
+          "id": "how-can-i-contact-customer-service",
+          "title": "How can I contact customer service?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "What payment methods does DROVIIA accept?",
-              "answer": "Available payment methods are displayed during checkout. Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options. Please refer to the checkout page for the most accurate information. Are your prices listed in U.S. dollars? Yes. Product prices on DROVIIA are displayed in USD (United States dollars). Are there any hidden fees? We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase. Certain optional services, such as specialized delivery or installation, may involve additional charges when offered. Why are some appliances priced lower than elsewhere? Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability. Some discounts may be associated with clearance inventory or particular product configurations. We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices. Can I use a discount or promotional code? If an eligible promotional code is available, enter it in the designated field during checkout. Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions. Is my payment information secure? We aim to use appropriate security measures and supported payment processing services to protect customer transactions. Please review our Privacy Policy for information about how customer data is handled."
+              "type": "paragraph",
+              "text": "Email info@vogueritual.us or call +1 (209) 810-5789."
             }
           ]
         },
         {
-          "id": "returns-refunds-exchanges",
-          "title": "5. Returns, Refunds & Exchanges",
+          "id": "what-products-do-you-sell",
+          "title": "What products do you sell?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "What is your return window?",
-              "answer": "Our current return policy provides a 30-day return request window from the delivery date for eligible products. Eligibility depends on the product's condition, category, reason for return, and applicable exclusions. Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions. Can I return a product if I change my mind? Our existing policy excludes returns requested solely because of a change of mind. Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws. Please contact our customer care team before sending any product back. How do I request a return? To request a return: Email info@droviia.us with your order number. Identify the product and explain the reason for your request. Include photographs or supporting details if the product is damaged, defective, or incorrect. Wait for our team to review your request. If approved, follow the return instructions and use the designated return destination. Do not ship products to our business address without prior authorization. Do you charge a restocking fee? Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns. The fee is waived for approved claims involving damaged, defective, or incorrect products. Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied. Who pays for return shipping? For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs. For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping. Large appliances may require coordinated pickup or special return arrangements. How long does it take to receive a refund? After an authorized return arrives, our current policy provides for inspection within two business days. Once approved, refunds are generally processed within seven business days after inspection approval. Your bank or payment provider may require additional time to make the funds available. Do you offer exchanges? We do not currently offer direct exchanges. If you need a different product, model, size, or configuration, you may place a new order. If your original product qualifies for a return, submit a separate return request under the applicable policy. What happens if I receive the wrong item? Contact info@droviia.us promptly with your order number and photographs of the item received. Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund."
+              "type": "paragraph",
+              "text": "Our categories include gaming and electronics, outdoor living products, lawn equipment, fireplaces, wood stoves, saunas, and home improvement products."
+            },
+            {
+              "type": "paragraph",
+              "text": "Availability varies by product."
             }
           ]
         },
         {
-          "id": "product-warranties-technical-information",
-          "title": "6. Product Warranties & Technical Information",
+          "id": "how-do-i-place-an-order",
+          "title": "How do I place an order?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "Do your products come with a warranty?",
-              "answer": "Warranty coverage depends on the product, manufacturer, and applicable purchase terms. Some products may include manufacturer warranty coverage, while others may have different support arrangements. Please review the product listing or contact us for warranty information before purchasing. Can you help me choose the right appliance? Our customer care team can help you locate available product specifications and information. For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing. Do you provide installation services? Installation availability has not been established for all products. Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase. Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation. Can I install a furnace, boiler, or air conditioner myself? Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations. Always follow the manufacturer's instructions and applicable local requirements. Improper installation can create safety risks and may affect warranty coverage. How do I know whether an appliance will fit my space? Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications. For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering. What if my appliance stops working? Contact our support team with your order number, product model, and a description of the issue. We'll help identify the available support options based on the product's return eligibility and applicable warranty terms."
+              "type": "paragraph",
+              "text": "Browse our store, choose your products, add them to your cart, and complete checkout."
             }
           ]
         },
         {
-          "id": "customer-accounts-support",
-          "title": "7. Customer Accounts & Support",
+          "id": "what-currency-do-you-use",
+          "title": "What currency do you use?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "How can I contact DROVIIA?",
-              "answer": "You can reach us through: Email: info@droviia.us Phone: +1 (424) 329-0223 Live Chat: Available 24/7 Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT) What information should I provide when contacting customer support? For order-related inquiries, please include: Your order number. The email address associated with your purchase. A brief explanation of your question or concern. Relevant product details or photographs, when necessary. Please do not share passwords or complete payment card details. Can I contact customer support outside business hours? Yes. Our website offers 24/7 live chat support. Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT. How can I request information about my personal data? For privacy-related inquiries, email info@droviia.us. You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests."
+              "type": "paragraph",
+              "text": "Prices and transactions are processed in US dollars."
             }
           ]
         },
         {
-          "id": "business-information",
-          "title": "8. Business Information",
+          "id": "which-payment-methods-do-you-accept",
+          "title": "Which payment methods do you accept?",
           "blocks": [
             {
-              "type": "faq",
-              "question": "Who owns and operates DROVIIA?",
-              "answer": "DROVIIA is operated by Modern Closet Spaces LLC. Business Name: DROVIIA Legal Business Name: Modern Closet Spaces LLC Business Address: 1320 W El Segundo Blvd Ste E Gardena, CA 90247 United States Website: https://droviia.us Email: info@droviia.us Phone: +1 (424) 329-0223 Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT Live Chat Support: Available 24/7 Still Have Questions? We're here to help you find the information you need. Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist. Email: info@droviia.us Phone: +1 (424) 329-0223 You can also visit our Contact Us page or use our 24/7 live chat. DROVIIA — Everyday Essentials for Better Living."
+              "type": "paragraph",
+              "text": "Available payment methods are displayed during checkout."
+            }
+          ]
+        },
+        {
+          "id": "can-i-cancel-an-order",
+          "title": "Can I cancel an order?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact customer support as soon as possible. Cancellation depends on the order's fulfillment status."
+            }
+          ]
+        },
+        {
+          "id": "can-i-change-my-shipping-address",
+          "title": "Can I change my shipping address?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact us immediately. Address changes cannot be made after an order has been dispatched under our published shipping policy."
+            }
+          ]
+        },
+        {
+          "id": "do-you-offer-free-shipping",
+          "title": "Do you offer free shipping?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Standard shipping is free throughout the United States."
+            }
+          ]
+        },
+        {
+          "id": "is-there-a-minimum-purchase-for-free-shipping",
+          "title": "Is there a minimum purchase for free shipping?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "No. All orders qualify for free standard shipping."
+            }
+          ]
+        },
+        {
+          "id": "how-long-does-order-processing-take",
+          "title": "How long does order processing take?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Handling takes approximately 1–3 business days."
+            }
+          ]
+        },
+        {
+          "id": "how-long-does-shipping-take",
+          "title": "How long does shipping take?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Transit is estimated at 3–5 business days."
+            }
+          ]
+        },
+        {
+          "id": "what-is-the-total-estimated-delivery-time",
+          "title": "What is the total estimated delivery time?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "4–8 business days, including handling and transit."
+            }
+          ]
+        },
+        {
+          "id": "what-is-your-daily-order-cutoff",
+          "title": "What is your daily order cutoff?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "5:00 PM PST."
+            }
+          ]
+        },
+        {
+          "id": "do-you-ship-internationally",
+          "title": "Do you ship internationally?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "No. We currently ship only within the United States."
+            }
+          ]
+        },
+        {
+          "id": "can-you-ship-to-po-boxes",
+          "title": "Can you ship to PO Boxes?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. We accept PO Box deliveries through supported postal services."
+            }
+          ]
+        },
+        {
+          "id": "do-you-ship-to-apo-fpo-military-addresses",
+          "title": "Do you ship to APO/FPO military addresses?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Eligible APO/FPO addresses are accepted through supported postal services."
+            }
+          ]
+        },
+        {
+          "id": "will-i-receive-tracking-information",
+          "title": "Will I receive tracking information?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Your shipping confirmation includes tracking information once the shipment has been collected and scanned by the carrier."
+            }
+          ]
+        },
+        {
+          "id": "when-does-tracking-update",
+          "title": "When does tracking update?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tracking information usually updates within 24–48 hours."
+            }
+          ]
+        },
+        {
+          "id": "what-is-your-return-window",
+          "title": "What is your return window?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "30 days."
+            }
+          ]
+        },
+        {
+          "id": "do-you-accept-returns-for-defective-products",
+          "title": "Do you accept returns for defective products?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes."
+            }
+          ]
+        },
+        {
+          "id": "can-i-return-a-product-if-i-change-my-mind",
+          "title": "Can I return a product if I change my mind?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes, provided it meets the eligibility requirements for non-defective returns."
+            }
+          ]
+        },
+        {
+          "id": "what-condition-must-a-return-be-in",
+          "title": "What condition must a return be in?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Standard non-defective returns must be in new condition."
+            }
+          ]
+        },
+        {
+          "id": "are-exchanges-available",
+          "title": "Are exchanges available?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Eligible exchanges are accepted."
+            }
+          ]
+        },
+        {
+          "id": "is-return-shipping-free",
+          "title": "Is return shipping free?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Our published policy provides a free return label included in the package."
+            }
+          ]
+        },
+        {
+          "id": "do-you-charge-restocking-fees",
+          "title": "Do you charge restocking fees?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "No. Our restocking fee is $0.00."
+            }
+          ]
+        },
+        {
+          "id": "how-long-do-refunds-take",
+          "title": "How long do refunds take?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our published refund processing time is 10 days."
+            }
+          ]
+        },
+        {
+          "id": "what-if-my-order-arrives-damaged",
+          "title": "What if my order arrives damaged?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact us promptly, preferably within 48 hours, and provide photographs where available."
+            }
+          ]
+        },
+        {
+          "id": "what-if-my-package-is-missing",
+          "title": "What if my package is missing?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Check the delivery area and contact customer support so we can review available tracking and carrier information."
+            }
+          ]
+        },
+        {
+          "id": "do-all-products-have-a-warranty",
+          "title": "Do all products have a warranty?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Warranty coverage depends on the product and any applicable manufacturer warranty."
+            }
+          ]
+        },
+        {
+          "id": "can-i-ask-about-product-compatibility",
+          "title": "Can I ask about product compatibility?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Yes. Contact us with the product model and relevant requirements."
+            }
+          ]
+        },
+        {
+          "id": "do-you-offer-product-installation",
+          "title": "Do you offer product installation?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Installation is not included unless explicitly stated in a product listing or order agreement."
+            }
+          ]
+        },
+        {
+          "id": "need-more-help",
+          "title": "Need More Help?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Email: info@vogueritual.us"
+            },
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (209) 810-5789"
+            }
+          ]
+        },
+        {
+          "id": "vogueritual",
+          "title": "Vogueritual",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2260 Porter Way"
             }
           ]
         }
       ],
       "lines": [
-        "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions.",
-        "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support.",
-        "1. General Questions",
-        "What is DROVIIA?",
-        "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials.",
-        "Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more.",
-        "DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California.",
-        "Where is DROVIIA located?",
-        "Our business information is:",
-        "DROVIIA — Modern Closet Spaces LLC",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us.",
-        "Please note that our listed business address is not automatically an authorized return location.",
-        "Is DROVIIA an online store?",
-        "Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online.",
-        "What types of products does DROVIIA sell?",
-        "Our product selection includes:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets.",
-        "* Home & Commercial Essentials: Hand dryers and garage door openers.",
-        "Product selection and availability may change over time.",
-        "Are your products new and authentic?",
-        "Product condition, brand, model, and included accessories should be identified in each listing.",
-        "We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order.",
-        "Why are some products offered at discounted prices?",
-        "Product prices may vary based on inventory, promotional offers, product models, and market conditions.",
-        "Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective.",
-        "Please review the individual listing for the product's condition and specifications.",
-        "Are you an authorized dealer for every brand you sell?",
-        "Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed.",
-        "If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering.",
-        "2. Orders & Product Availability",
+        "Find answers to commonly asked questions about shopping with Vogueritual.",
+        "General Questions",
+        "What is Vogueritual?",
+        "Vogueritual is a multi-category online store offering products across electronics, home improvement, lawn and garden, fireplaces, outdoor power equipment, wellness, and other categories.",
+        "What is your official website?",
+        "Our official website is https://vogueritual.us.",
+        "Where is Vogueritual located?",
+        "Our business address is 2260 Porter Way, Stockton, CA 95207, United States.",
+        "How can I contact customer service?",
+        "Email info@vogueritual.us or call +1 (209) 810-5789.",
+        "What products do you sell?",
+        "Our categories include gaming and electronics, outdoor living products, lawn equipment, fireplaces, wood stoves, saunas, and home improvement products.",
+        "Availability varies by product.",
+        "Orders and Payments",
         "How do I place an order?",
-        "Ordering from DROVIIA is straightforward:",
-        "1. Browse our product categories or use the search feature.",
-        "2. Select the product you want and review its specifications.",
-        "3. Choose any available product options.",
-        "4. Add the item to your shopping cart.",
-        "5. Proceed to checkout and enter your delivery information.",
-        "6. Review your order total, shipping charges, and payment options.",
-        "7. Complete your purchase.",
-        "Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout.",
-        "Can I place an order without creating an account?",
-        "Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account.",
-        "How can I check whether a product is in stock?",
-        "Product availability is generally displayed on the product page.",
-        "If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering.",
-        "What happens if an item becomes unavailable after I place an order?",
-        "If an ordered product becomes unavailable, our team will contact you to explain the situation and available options.",
-        "Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund.",
-        "We will not substitute a different product without your agreement.",
-        "Can I modify or cancel my order?",
-        "Please contact us as soon as possible at info@droviia.us with your order number and requested change.",
-        "We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible.",
-        "Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible.",
-        "For more information, review our Order Cancellation Policy.",
-        "Can I order multiple products at once?",
-        "Yes. You can add multiple available products to your cart and complete checkout together.",
-        "Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments.",
-        "3. Shipping & Delivery",
-        "Where does DROVIIA ship?",
-        "DROVIIA serves customers in the United States.",
-        "Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions.",
-        "How much does shipping cost?",
-        "Our current standard shipping schedule is:",
-        "* Orders below $100 USD: $5 standard shipping.",
-        "* Orders of $100 USD or more: Free standard shipping.",
-        "These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase.",
-        "The applicable shipping charge will be displayed during checkout.",
-        "How long does delivery take?",
-        "For orders eligible for our standard parcel shipping service, our current estimates are:",
-        "* Order processing: 0–1 business days.",
-        "* Carrier transit: 3–5 business days.",
-        "* Total estimated delivery: 3–6 business days.",
-        "These estimates are not guaranteed delivery dates.",
-        "Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details.",
-        "What is your daily order cutoff time?",
-        "Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days.",
-        "Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day.",
-        "Which shipping carriers do you use?",
-        "Our standard parcel shipping carriers include:",
-        "* USPS",
-        "* UPS",
-        "The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier.",
-        "How can I track my order?",
-        "When your order ships, we'll send a shipping confirmation email containing the available tracking information.",
-        "You can follow your shipment using the carrier's tracking service or visit our Track Your Order page.",
-        "What should I do if my order is delayed?",
-        "If your order hasn't arrived within the expected delivery window, review your tracking information first.",
-        "If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number.",
-        "Our team will help review the available shipment information.",
-        "What if my package arrives damaged?",
-        "Please inspect your delivery as soon as reasonably possible.",
-        "If the package or product appears damaged, contact us promptly at info@droviia.us.",
-        "Include your order number, a description of the issue, and clear photographs of the product and packaging.",
-        "For large appliances, retain the packaging and any delivery documentation while our team reviews your claim.",
-        "4. Payments & Pricing",
-        "What payment methods does DROVIIA accept?",
+        "Browse our store, choose your products, add them to your cart, and complete checkout.",
+        "What currency do you use?",
+        "Prices and transactions are processed in US dollars.",
+        "Which payment methods do you accept?",
         "Available payment methods are displayed during checkout.",
-        "Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options.",
-        "Please refer to the checkout page for the most accurate information.",
-        "Are your prices listed in U.S. dollars?",
-        "Yes. Product prices on DROVIIA are displayed in USD (United States dollars).",
-        "Are there any hidden fees?",
-        "We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase.",
-        "Certain optional services, such as specialized delivery or installation, may involve additional charges when offered.",
-        "Why are some appliances priced lower than elsewhere?",
-        "Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability.",
-        "Some discounts may be associated with clearance inventory or particular product configurations.",
-        "We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices.",
-        "Can I use a discount or promotional code?",
-        "If an eligible promotional code is available, enter it in the designated field during checkout.",
-        "Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions.",
-        "Is my payment information secure?",
-        "We aim to use appropriate security measures and supported payment processing services to protect customer transactions.",
-        "Please review our Privacy Policy for information about how customer data is handled.",
-        "5. Returns, Refunds & Exchanges",
+        "Can I cancel an order?",
+        "Contact customer support as soon as possible. Cancellation depends on the order's fulfillment status.",
+        "Can I change my shipping address?",
+        "Contact us immediately. Address changes cannot be made after an order has been dispatched under our published shipping policy.",
+        "Shipping and Delivery",
+        "Do you offer free shipping?",
+        "Yes. Standard shipping is free throughout the United States.",
+        "Is there a minimum purchase for free shipping?",
+        "No. All orders qualify for free standard shipping.",
+        "How long does order processing take?",
+        "Handling takes approximately 1–3 business days.",
+        "How long does shipping take?",
+        "Transit is estimated at 3–5 business days.",
+        "What is the total estimated delivery time?",
+        "4–8 business days, including handling and transit.",
+        "What is your daily order cutoff?",
+        "5:00 PM PST.",
+        "Do you ship internationally?",
+        "No. We currently ship only within the United States.",
+        "Can you ship to PO Boxes?",
+        "Yes. We accept PO Box deliveries through supported postal services.",
+        "Do you ship to APO/FPO military addresses?",
+        "Yes. Eligible APO/FPO addresses are accepted through supported postal services.",
+        "Will I receive tracking information?",
+        "Yes. Your shipping confirmation includes tracking information once the shipment has been collected and scanned by the carrier.",
+        "When does tracking update?",
+        "Tracking information usually updates within 24–48 hours.",
+        "Returns and Exchanges",
         "What is your return window?",
-        "Our current return policy provides a 30-day return request window from the delivery date for eligible products.",
-        "Eligibility depends on the product's condition, category, reason for return, and applicable exclusions.",
-        "Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions.",
+        "30 days.",
+        "Do you accept returns for defective products?",
+        "Yes.",
         "Can I return a product if I change my mind?",
-        "Our existing policy excludes returns requested solely because of a change of mind.",
-        "Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws.",
-        "Please contact our customer care team before sending any product back.",
-        "How do I request a return?",
-        "To request a return:",
-        "1. Email info@droviia.us with your order number.",
-        "2. Identify the product and explain the reason for your request.",
-        "3. Include photographs or supporting details if the product is damaged, defective, or incorrect.",
-        "4. Wait for our team to review your request.",
-        "5. If approved, follow the return instructions and use the designated return destination.",
-        "Do not ship products to our business address without prior authorization.",
-        "Do you charge a restocking fee?",
-        "Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns.",
-        "The fee is waived for approved claims involving damaged, defective, or incorrect products.",
-        "Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied.",
-        "Who pays for return shipping?",
-        "For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs.",
-        "For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping.",
-        "Large appliances may require coordinated pickup or special return arrangements.",
-        "How long does it take to receive a refund?",
-        "After an authorized return arrives, our current policy provides for inspection within two business days.",
-        "Once approved, refunds are generally processed within seven business days after inspection approval.",
-        "Your bank or payment provider may require additional time to make the funds available.",
-        "Do you offer exchanges?",
-        "We do not currently offer direct exchanges.",
-        "If you need a different product, model, size, or configuration, you may place a new order.",
-        "If your original product qualifies for a return, submit a separate return request under the applicable policy.",
-        "What happens if I receive the wrong item?",
-        "Contact info@droviia.us promptly with your order number and photographs of the item received.",
-        "Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund.",
-        "6. Product Warranties & Technical Information",
-        "Do your products come with a warranty?",
-        "Warranty coverage depends on the product, manufacturer, and applicable purchase terms.",
-        "Some products may include manufacturer warranty coverage, while others may have different support arrangements.",
-        "Please review the product listing or contact us for warranty information before purchasing.",
-        "Can you help me choose the right appliance?",
-        "Our customer care team can help you locate available product specifications and information.",
-        "For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing.",
-        "Do you provide installation services?",
-        "Installation availability has not been established for all products.",
-        "Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase.",
-        "Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation.",
-        "Can I install a furnace, boiler, or air conditioner myself?",
-        "Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations.",
-        "Always follow the manufacturer's instructions and applicable local requirements.",
-        "Improper installation can create safety risks and may affect warranty coverage.",
-        "How do I know whether an appliance will fit my space?",
-        "Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications.",
-        "For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering.",
-        "What if my appliance stops working?",
-        "Contact our support team with your order number, product model, and a description of the issue.",
-        "We'll help identify the available support options based on the product's return eligibility and applicable warranty terms.",
-        "7. Customer Accounts & Support",
-        "How can I contact DROVIIA?",
-        "You can reach us through:",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Live Chat: Available 24/7",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "What information should I provide when contacting customer support?",
-        "For order-related inquiries, please include:",
-        "* Your order number.",
-        "* The email address associated with your purchase.",
-        "* A brief explanation of your question or concern.",
-        "* Relevant product details or photographs, when necessary.",
-        "Please do not share passwords or complete payment card details.",
-        "Can I contact customer support outside business hours?",
-        "Yes. Our website offers 24/7 live chat support.",
-        "Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT.",
-        "How can I request information about my personal data?",
-        "For privacy-related inquiries, email info@droviia.us.",
-        "You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests.",
-        "8. Business Information",
-        "Who owns and operates DROVIIA?",
-        "DROVIIA is operated by Modern Closet Spaces LLC.",
-        "Business Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
-        "United States",
-        "Website: https://droviia.us",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
-        "Live Chat Support: Available 24/7",
-        "Still Have Questions?",
-        "We're here to help you find the information you need.",
-        "Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist.",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "You can also visit our Contact Us page or use our 24/7 live chat.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Yes, provided it meets the eligibility requirements for non-defective returns.",
+        "What condition must a return be in?",
+        "Standard non-defective returns must be in new condition.",
+        "Are exchanges available?",
+        "Yes. Eligible exchanges are accepted.",
+        "Is return shipping free?",
+        "Yes. Our published policy provides a free return label included in the package.",
+        "Do you charge restocking fees?",
+        "No. Our restocking fee is $0.00.",
+        "How long do refunds take?",
+        "Our published refund processing time is 10 days.",
+        "What if my order arrives damaged?",
+        "Contact us promptly, preferably within 48 hours, and provide photographs where available.",
+        "What if my package is missing?",
+        "Check the delivery area and contact customer support so we can review available tracking and carrier information.",
+        "Product and Warranty Questions",
+        "Do all products have a warranty?",
+        "Warranty coverage depends on the product and any applicable manufacturer warranty.",
+        "Can I ask about product compatibility?",
+        "Yes. Contact us with the product model and relevant requirements.",
+        "Do you offer product installation?",
+        "Installation is not included unless explicitly stated in a product listing or order agreement.",
+        "Need More Help?",
+        "Email: info@vogueritual.us",
+        "Phone: +1 (209) 810-5789",
+        "Vogueritual",
+        "2260 Porter Way",
+        "Stockton, CA 95207",
+        "United States"
       ]
     },
     {
       "slug": "our-commitment",
       "title": "Our Commitment",
       "effectiveDate": "",
-      "tagline": "Your comfort. Our priority. Your confidence.",
+      "tagline": "Your Shopping Experience Matters",
       "intro": [
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support."
+        "At Vogueritual, we are committed to making online shopping more convenient through product variety, straightforward information, and transparent customer policies."
       ],
-      "description": "Your Comfort. Our Priority. Your Confidence.",
+      "description": "At Vogueritual, we are committed to making online shopping more convenient through product variety, straightforward information, and transparent customer policies.",
       "sections": [
         {
-          "id": "quality-products-for-everyday-living",
-          "title": "1. Quality Products for Everyday Living",
+          "id": "your-shopping-experience-matters",
+          "title": "Your Shopping Experience Matters",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We understand that purchasing home appliances and electronics is an important decision."
+              "text": "At Vogueritual, we are committed to making online shopping more convenient through product variety, straightforward information, and transparent customer policies."
             },
             {
               "type": "paragraph",
-              "text": "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing clear and informative product descriptions.",
-                "Displaying relevant specifications, features, and product details.",
-                "Helping customers compare products before making a purchase.",
-                "Communicating product availability and important purchasing information accurately.",
-                "Providing applicable warranty information when available."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe every customer deserves the information needed to make an informed purchasing decision."
+              "text": "Our commitments guide how we present products, fulfill orders, and support our customers."
             }
           ]
         },
         {
-          "id": "fair-pricing-and-transparent-shopping",
-          "title": "2. Fair Pricing and Transparent Shopping",
+          "id": "1-clear-product-information",
+          "title": "1. Clear Product Information",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, we believe a positive shopping experience begins with clarity."
+              "text": "We aim to provide useful product descriptions, specifications, images, and other relevant details."
             },
             {
               "type": "paragraph",
-              "text": "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our pricing commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Clearly displayed product prices in U.S. dollars.",
-                "Applicable shipping charges presented before checkout.",
-                "Transparent promotional offers and discount conditions.",
-                "No undisclosed charges added after an order is placed.",
-                "Clear information about available payment options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process."
+              "text": "Customers should be able to review essential information before making a purchasing decision."
             }
           ]
         },
         {
-          "id": "clear-shipping-and-delivery-information",
-          "title": "3. Clear Shipping and Delivery Information",
+          "id": "2-transparent-pricing",
+          "title": "2. Transparent Pricing",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "We know how important it is to receive your order within a reasonable timeframe."
+              "text": "We display product prices in United States dollars."
             },
             {
               "type": "paragraph",
-              "text": "That's why we aim to communicate shipping information clearly, from order processing through delivery."
+              "text": "Applicable taxes are calculated or displayed during checkout where required."
             },
             {
               "type": "paragraph",
-              "text": "Our commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing applicable shipping rates before purchase.",
-                "Communicating estimated processing and delivery timeframes.",
-                "Sending shipment confirmation and tracking information when available.",
-                "Assisting customers with delivery-related questions.",
-                "Notifying customers of significant fulfillment delays and explaining their available options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For complete information, please review our Shipping & Delivery Policy."
+              "text": "We provide free standard shipping throughout the United States."
             }
           ]
         },
         {
-          "id": "straightforward-returns-and-refunds",
-          "title": "4. Straightforward Returns and Refunds",
+          "id": "our-published-shipping-estimates-include",
+          "title": "Our published shipping estimates include:",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered."
+              "type": "bullet",
+              "text": "Order cutoff: 5:00 PM PST"
+            },
+            {
+              "type": "bullet",
+              "text": "Handling time: 1–3 business days"
+            },
+            {
+              "type": "bullet",
+              "text": "Transit time: 3–5 business days"
+            },
+            {
+              "type": "bullet",
+              "text": "Total estimated delivery: 4–8 business days"
             },
             {
               "type": "paragraph",
-              "text": "Our goal is to make the return and refund process as clear and manageable as possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Explaining product return eligibility and applicable exclusions.",
-                "Providing clear instructions for submitting return requests.",
-                "Reviewing damaged, defective, or incorrect-item claims fairly.",
-                "Communicating applicable return shipping charges and restocking fees.",
-                "Processing approved refunds according to our published policy.",
-                "Respecting applicable consumer protection rights."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For full details, please review our Return & Refund Policy."
+              "text": "Delivery times are estimates and may be affected by unforeseen circumstances."
             }
           ]
         },
         {
-          "id": "responsive-and-accessible-customer-support",
-          "title": "5. Responsive and Accessible Customer Support",
+          "id": "4-customer-friendly-returns",
+          "title": "4. Customer-Friendly Returns",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Customer service is an essential part of the DROVIIA shopping experience."
+              "text": "We accept eligible returns for defective and non-defective products within 30 days."
             },
             {
               "type": "paragraph",
-              "text": "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us."
+              "text": "Approved returns qualify for free return shipping, and no restocking fees apply."
             },
             {
               "type": "paragraph",
-              "text": "Our customer care team can assist with:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "General product and availability inquiries.",
-                "Order confirmation and status questions.",
-                "Shipping and tracking assistance.",
-                "Return and refund requests.",
-                "Payment-related inquiries.",
-                "Product warranty and support information."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)."
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to address customer inquiries professionally, respectfully, and with clear communication."
+              "text": "Eligible exchanges are also accepted."
             }
           ]
         },
         {
-          "id": "responsible-and-secure-shopping",
-          "title": "6. Responsible and Secure Shopping",
+          "id": "our-team-can-assist-with",
+          "title": "Our team can assist with:",
           "blocks": [
             {
-              "type": "paragraph",
-              "text": "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment."
+              "type": "bullet",
+              "text": "Product inquiries"
             },
             {
-              "type": "paragraph",
-              "text": "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used."
+              "type": "bullet",
+              "text": "Order information"
             },
             {
-              "type": "paragraph",
-              "text": "Our priorities include:"
+              "type": "bullet",
+              "text": "Shipping questions"
             },
             {
-              "type": "bullets",
-              "items": [
-                "Using appropriate safeguards to protect customer information.",
-                "Providing access to our Privacy Policy and Terms of Service.",
-                "Explaining how personal information may be collected and processed.",
-                "Supporting applicable customer privacy rights.",
-                "Offering payment methods through the checkout options available on our website."
-              ]
+              "type": "bullet",
+              "text": "Damaged or incorrect products"
             },
             {
-              "type": "paragraph",
-              "text": "We encourage customers to review our Privacy Policy for additional information about our data practices."
+              "type": "bullet",
+              "text": "Returns and exchanges"
+            },
+            {
+              "type": "bullet",
+              "text": "Refund inquiries"
+            },
+            {
+              "type": "bullet",
+              "text": "General assistance"
             }
           ]
         },
         {
-          "id": "honest-communication-and-accountability",
-          "title": "7. Honest Communication and Accountability",
+          "id": "6-responsible-information-handling",
+          "title": "6. Responsible Information Handling",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Trust is earned through consistency, transparency, and responsible actions."
+              "text": "We recognize the importance of protecting customer information."
             },
             {
               "type": "paragraph",
-              "text": "We believe customers should receive accurate information about the products they purchase and the services they can expect."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Avoiding misleading product descriptions or unsupported claims.",
-                "Clearly communicating important product limitations and requirements.",
-                "Providing accurate information about shipping, returns, and warranties.",
-                "Addressing customer concerns fairly.",
-                "Improving our website and customer experience based on customer needs."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution."
+              "text": "We aim to use appropriate safeguards and provide privacy information through our website policies."
             }
           ]
         },
         {
-          "id": "continuously-improving-your-shopping-experience",
-          "title": "8. Continuously Improving Your Shopping Experience",
+          "id": "7-honest-communication",
+          "title": "7. Honest Communication",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "At DROVIIA, we believe there is always room to improve."
+              "text": "We aim to communicate product availability, applicable shipping estimates, and policy requirements clearly."
             },
             {
               "type": "paragraph",
-              "text": "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility."
-            },
-            {
-              "type": "paragraph",
-              "text": "We value customer feedback because it helps us identify opportunities to serve you better."
+              "text": "If an order cannot be fulfilled as expected, we will review the available options and applicable customer rights."
             }
           ]
         },
         {
-          "id": "the-droviia-promise",
-          "title": "The DROVIIA Promise",
+          "id": "8-continuous-improvement",
+          "title": "8. Continuous Improvement",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we strive to bring these principles together in every shopping experience."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service."
-            },
-            {
-              "type": "paragraph",
-              "text": "Thank you for choosing DROVIIA as part of your everyday living."
-            }
-          ]
-        },
-        {
-          "id": "we-re-here-to-help",
-          "title": "We're Here to Help",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have a question about a product, an order, or our store policies? Our customer care team is available to assist."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
+              "text": "We value customer feedback and aim to improve our shopping experience, product information, and support processes."
             }
           ]
         }
       ],
       "lines": [
-        "Our Commitment",
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support.",
-        "1. Quality Products for Everyday Living",
-        "We understand that purchasing home appliances and electronics is an important decision.",
-        "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs.",
-        "We are committed to:",
-        "* Providing clear and informative product descriptions.",
-        "* Displaying relevant specifications, features, and product details.",
-        "* Helping customers compare products before making a purchase.",
-        "* Communicating product availability and important purchasing information accurately.",
-        "* Providing applicable warranty information when available.",
-        "We believe every customer deserves the information needed to make an informed purchasing decision.",
-        "2. Fair Pricing and Transparent Shopping",
-        "At DROVIIA, we believe a positive shopping experience begins with clarity.",
-        "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases.",
-        "Our pricing commitment includes:",
-        "* Clearly displayed product prices in U.S. dollars.",
-        "* Applicable shipping charges presented before checkout.",
-        "* Transparent promotional offers and discount conditions.",
-        "* No undisclosed charges added after an order is placed.",
-        "* Clear information about available payment options.",
-        "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process.",
-        "3. Clear Shipping and Delivery Information",
-        "We know how important it is to receive your order within a reasonable timeframe.",
-        "That's why we aim to communicate shipping information clearly, from order processing through delivery.",
-        "Our commitment includes:",
-        "* Providing applicable shipping rates before purchase.",
-        "* Communicating estimated processing and delivery timeframes.",
-        "* Sending shipment confirmation and tracking information when available.",
-        "* Assisting customers with delivery-related questions.",
-        "* Notifying customers of significant fulfillment delays and explaining their available options.",
-        "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements.",
-        "For complete information, please review our Shipping & Delivery Policy.",
-        "4. Straightforward Returns and Refunds",
-        "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered.",
-        "Our goal is to make the return and refund process as clear and manageable as possible.",
-        "We are committed to:",
-        "* Explaining product return eligibility and applicable exclusions.",
-        "* Providing clear instructions for submitting return requests.",
-        "* Reviewing damaged, defective, or incorrect-item claims fairly.",
-        "* Communicating applicable return shipping charges and restocking fees.",
-        "* Processing approved refunds according to our published policy.",
-        "* Respecting applicable consumer protection rights.",
-        "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements.",
-        "For full details, please review our Return & Refund Policy.",
-        "5. Responsive and Accessible Customer Support",
-        "Customer service is an essential part of the DROVIIA shopping experience.",
-        "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us.",
-        "Our customer care team can assist with:",
-        "* General product and availability inquiries.",
-        "* Order confirmation and status questions.",
-        "* Shipping and tracking assistance.",
-        "* Return and refund requests.",
-        "* Payment-related inquiries.",
-        "* Product warranty and support information.",
-        "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT).",
-        "Live Chat Support: Available 24/7.",
-        "We aim to address customer inquiries professionally, respectfully, and with clear communication.",
-        "6. Responsible and Secure Shopping",
-        "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment.",
-        "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used.",
-        "Our priorities include:",
-        "* Using appropriate safeguards to protect customer information.",
-        "* Providing access to our Privacy Policy and Terms of Service.",
-        "* Explaining how personal information may be collected and processed.",
-        "* Supporting applicable customer privacy rights.",
-        "* Offering payment methods through the checkout options available on our website.",
-        "We encourage customers to review our Privacy Policy for additional information about our data practices.",
-        "7. Honest Communication and Accountability",
-        "Trust is earned through consistency, transparency, and responsible actions.",
-        "We believe customers should receive accurate information about the products they purchase and the services they can expect.",
-        "We are committed to:",
-        "* Avoiding misleading product descriptions or unsupported claims.",
-        "* Clearly communicating important product limitations and requirements.",
-        "* Providing accurate information about shipping, returns, and warranties.",
-        "* Addressing customer concerns fairly.",
-        "* Improving our website and customer experience based on customer needs.",
-        "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution.",
-        "8. Continuously Improving Your Shopping Experience",
-        "At DROVIIA, we believe there is always room to improve.",
-        "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need.",
-        "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility.",
-        "We value customer feedback because it helps us identify opportunities to serve you better.",
-        "The DROVIIA Promise",
-        "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention.",
-        "At DROVIIA, we strive to bring these principles together in every shopping experience.",
-        "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service.",
-        "Thank you for choosing DROVIIA as part of your everyday living.",
-        "We're Here to Help",
-        "Have a question about a product, an order, or our store policies? Our customer care team is available to assist.",
-        "DROVIIA",
-        "Operated by Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
-        "Live Chat: Available 24/7",
-        "Website: https://droviia.us",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Your Shopping Experience Matters",
+        "At Vogueritual, we are committed to making online shopping more convenient through product variety, straightforward information, and transparent customer policies.",
+        "Our commitments guide how we present products, fulfill orders, and support our customers.",
+        "1. Clear Product Information",
+        "We aim to provide useful product descriptions, specifications, images, and other relevant details.",
+        "Customers should be able to review essential information before making a purchasing decision.",
+        "2. Transparent Pricing",
+        "We display product prices in United States dollars.",
+        "Applicable taxes are calculated or displayed during checkout where required.",
+        "We provide free standard shipping throughout the United States.",
+        "3. Shipping Transparency",
+        "Our published shipping estimates include:",
+        "* Order cutoff: 5:00 PM PST",
+        "* Handling time: 1–3 business days",
+        "* Transit time: 3–5 business days",
+        "* Total estimated delivery: 4–8 business days",
+        "Delivery times are estimates and may be affected by unforeseen circumstances.",
+        "4. Customer-Friendly Returns",
+        "We accept eligible returns for defective and non-defective products within 30 days.",
+        "Approved returns qualify for free return shipping, and no restocking fees apply.",
+        "Eligible exchanges are also accepted.",
+        "5. Customer Support",
+        "Our team can assist with:",
+        "* Product inquiries",
+        "* Order information",
+        "* Shipping questions",
+        "* Damaged or incorrect products",
+        "* Returns and exchanges",
+        "* Refund inquiries",
+        "* General assistance",
+        "6. Responsible Information Handling",
+        "We recognize the importance of protecting customer information.",
+        "We aim to use appropriate safeguards and provide privacy information through our website policies.",
+        "7. Honest Communication",
+        "We aim to communicate product availability, applicable shipping estimates, and policy requirements clearly.",
+        "If an order cannot be fulfilled as expected, we will review the available options and applicable customer rights.",
+        "8. Continuous Improvement",
+        "We value customer feedback and aim to improve our shopping experience, product information, and support processes."
       ]
     }
   ]
